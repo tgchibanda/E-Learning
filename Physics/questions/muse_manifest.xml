@@ -1,0 +1,70 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Hydraulics.co.za" resolutions="1x" timestamp="1518013331770">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="71797714" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="hydraulics.svg" crc="4125670821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hydraulics_poster_.png" crc="4134101264" ref="index"/>
+    <file name="fluid-mechanics.svg" crc="4144953705" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fluid mechanics_poster_.png" crc="3909440894" ref="index"/>
+    <file name="pluz.svg" crc="3864681605" ref="index"/>
+    <file name="pluz_poster_u267.png" crc="3851846528" ref="index"/>
+    <file name="minus.svg" crc="3992905249" ref="index"/>
+    <file name="minus_poster_u259.png" crc="4140762282" ref="index"/>
+    <file name="force-exerted.svg" crc="4263517645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="force exerted_poster_.png" crc="4092869947" ref="index"/>
+    <file name="pluz2.svg" crc="3864681605" ref="index"/>
+    <file name="pluz_poster_u398.png" crc="3851846528" ref="index"/>
+    <file name="minus2.svg" crc="3992905249" ref="index"/>
+    <file name="minus_poster_u406.png" crc="4140762282" ref="index"/>
+    <file name="trust-acting.svg" crc="94754023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trust acting_poster_.png" crc="3786071697" ref="index"/>
+    <file name="definition.svg" crc="3820488596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="definition_poster_.png" crc="296554098" ref="index"/>
+    <file name="used.svg" crc="470128680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="used_poster_.png" crc="495047694" ref="index"/>
+    <file name="a2.svg" crc="262318585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a2_poster_.png" crc="3882517862" ref="index"/>
+    <file name="p=pgh.svg" crc="4288357494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p=pgh_poster_.png" crc="4239245310" ref="index"/>
+    <file name="artmosphere-(atm)-=-1,01105-pa.svg" crc="4169064597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artmosphere (atm) = 1,01105 pa_poster_.png" crc="3983150782" ref="index"/>
+    <file name="q.svg" crc="92964179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="q_poster_.png" crc="29065228" ref="index"/>
+  </folder>
+  <file name="index.html" crc="490197462" seo="true" mt="1518013293384" redirect="true"/>
+</manifest>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.Hydraulics.co.za/index.html</loc>
+    <lastmod>2018-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.Hydraulics.co.za/images/hydraulics.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Hydraulics.co.za/images/fluid-mechanics.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Hydraulics.co.za/images/force-exerted.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Hydraulics.co.za/images/trust-acting.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Hydraulics.co.za/images/definition.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Hydraulics.co.za/images/used.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Hydraulics.co.za/images/a2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Hydraulics.co.za/images/p=pgh.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Hydraulics.co.za/images/artmosphere-(atm)-=-1,01105-pa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Hydraulics.co.za/images/q.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
